@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sjIX5Fz8RiJLhjsC6S6/G6mMd+5JBavBweNxIdEZXpc=",
+  "Source": "ECommerceAPI",
+  "BasePath": "_content/ECommerceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerceAPI\\wwwroot",
+      "Source": "ECommerceAPI",
+      "ContentRoot": "C:\\Users\\elija\\source\\repos\\ECommerce\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\elija\\source\\repos\\ECommerce\\ECommerceAPI\\wwwroot\\images\\1.jpeg",
+      "SourceId": "ECommerceAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elija\\source\\repos\\ECommerce\\ECommerceAPI\\wwwroot\\",
+      "BasePath": "_content/ECommerceAPI",
+      "RelativePath": "images/1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpeg"
+    }
+  ]
+}
